@@ -1,0 +1,9 @@
+com\dovit\demomina\entities\Mina.class
+com\dovit\demomina\repositories\MinaRepository.class
+com\dovit\demomina\serviceImplements\MinaServiceImplements.class
+com\dovit\demomina\util\CorsConfig.class
+com\dovit\demomina\serviceInterface\MinaService.class
+com\dovit\demomina\controllers\MinaController.class
+com\dovit\demomina\dtos\MinaDto.class
+com\dovit\demomina\DemoMinaApplication.class
+com\dovit\demomina\util\CorsConfig$1.class
